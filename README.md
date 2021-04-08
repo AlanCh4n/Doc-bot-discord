@@ -7,6 +7,4 @@ Before you proceed to download, please read the following text.
 
 # What you are not allowed to do:
 
-###1 . You are not allowed to use this code in your project or bot without asking me. If you want to ask me, then [Join my discord server](https://discord.gg/KUbU6gbxns).
-
-#### Do not use the code without asking from me, using without askin may result in you getting reported by me.
+### please dont use this in your project, pls, for now atleast, this code is heavily outdated and has no relationship with the main bot. I might post the latest code for people to use
